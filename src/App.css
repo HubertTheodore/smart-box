@@ -1,0 +1,128 @@
+/* styling for whole navbar div */
+.Navbar {
+  background-color: #2F4050;
+}
+
+/* styling for list of all navbar elements */
+.NavbarList {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  height: auto;
+  padding: 0;
+  width: 100%;
+}
+
+/* styling for each navbar element */
+.NavbarList .row {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  padding-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+/* styling for rectangular field */
+.Rectangle {
+  height: 300px;
+  width: 450px;
+  background-color: grey;
+  border: 10px solid black;
+  margin-left: 5%;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+/* styling for field and inputs */
+.FieldAndInputs {
+  display: flex;
+  flex-direction: row;
+}
+
+/* styling for left and right arrows */
+.HorizontalArrows {
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/* styling for left and right arrow images */
+.HorizontalArrows img{
+  width: 50px;
+  height: 50px;
+}
+
+/* styling for up and down arrows */
+.VerticalArrows {
+  display: flex;
+  flex-direction: column;
+}
+
+/* styling for up and down arrow images */
+.VerticalArrows img{
+  width: 50px;
+  height: 50px;
+}
+
+/* styling for input boxes for coordinates */
+.TextBoxes {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+/* styling for circle indicating if object is caught or not */
+.BallIndicator {
+  display: flex;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+/* styling for circle if object is not caught */
+.BallIndicator-Red {
+  background-color: red;
+}
+
+/* styling for circle if object is caught */
+.BallIndicator-Green {
+  background-color: green;
+}
+
+/* styling for text */
+.BallText {
+  margin-left: 150px;
+}
+
+/* styling for all Home components */
+.HomeComponents {
+  display: flex;
+  flex-direction: row;
+}
+
+/* styling for both coordinate input boxes */
+.XYInputs {
+  display: flex;
+  flex-direction: row;
+}
+
+/* styling for about page paragraphs */
+.box { 
+  padding: 20px;
+  margin-left: 200px; 
+  margin-right: 200px; 
+  font-family: Italic;
+  font-size: 20px; 
+}
+
+/* styling for about page image for the project */
+.box img {
+  height: 400px;
+  width: 400px;
+  margin-left: 25%;
+}
+
+
