@@ -1,6 +1,8 @@
 # Smart Box
 
-As a group of 4, we designed and created a box that can move to a destination in the form of 2 different input commands from a website. It also has the ability to detect if the box is still moving and if an object has been caught. My responsibility was to create the front end and the back end using React and Express.js as well as hosting the website on the virtual machine.
+As a group of 4, we designed and created a box that can move to a destination in the form of 2 different input commands from a website. It also has the ability to detect if the box is still moving and if an object has been caught. 
+
+My responsibility was to create the front end and the back end using React and Express.js as well as hosting the website on the virtual machine.
 
 ## Table of Contents
 
