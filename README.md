@@ -15,23 +15,23 @@ We used UBC ECE's virtual machine in order to host the website using Nginx. For 
 
 The following diagrams show the logic behind both the hardware and software components:
 
-![hardware](https://github.com/HubertTheodore/smart-box/assets/55958230/77980295-62d7-4d00-aedd-7f88f0fd0d74)
+![hardware](https://github.com/HubertTheodore/smart-box/assets/55958230/71057070-299f-478b-b617-326e54e4f5f8)
 
 Software:
 
-![software](https://github.com/HubertTheodore/smart-box/assets/55958230/b1bf3a7c-6dec-482b-8927-ca5effa1ff95)
+![software](https://github.com/HubertTheodore/smart-box/assets/55958230/8118c997-cc76-4d94-a561-a63c0c8c0ff1)
 
 Hardware fritzing:
 
-![fritzing](https://github.com/HubertTheodore/smart-box/assets/55958230/b0a4c4c5-125f-4724-a8c3-1688c9f05636)
+![fritzing](https://github.com/HubertTheodore/smart-box/assets/55958230/ff9100f9-822a-48ed-88d1-c51225aa251a)
 
 Pictures of the physical circuit:
 
-![box1](https://github.com/HubertTheodore/smart-box/assets/55958230/f1bdceb2-7d6d-4fe6-b732-4bcf9f9050b3)
-![box2](https://github.com/HubertTheodore/smart-box/assets/55958230/91417b92-e4fa-4b2d-9744-08f014e5148e)
+![box1](https://github.com/HubertTheodore/smart-box/assets/55958230/a6e9227c-09c7-45e4-9a9f-ab80e65c3664)
+![box2](https://github.com/HubertTheodore/smart-box/assets/55958230/d3b15c79-42e2-4c49-a477-47e918bce011)
 
 ## Final Result <a name="finalResult"></a>
 
 [Smart Box Demo](https://www.youtube.com/watch?v=lUScERJdyYA)
 
-![boxfinal](https://github.com/HubertTheodore/smart-box/assets/55958230/beaf499c-4f9e-4880-a56d-37cbc13bd5f7)
+![boxfinal](https://github.com/HubertTheodore/smart-box/assets/55958230/3859d95b-9a75-401e-99d5-457df560ebcd)
