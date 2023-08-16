@@ -6,8 +6,8 @@ My responsibility was to create the front end and the back end using React and E
 
 ## Table of Contents
 
-- (Design and Implementation)[#designAndImplementation]
-- (Final Result)[#finalResult]
+- [Design and Implementation](#designAndImplementation)
+- [Final Result](#finalResult)
 
 ## Design and Implementation <a name="designAndImplementation"></a>
 
@@ -29,6 +29,6 @@ Hardware fritzing and pictures of the physical circuit:
 
 ## Final Result <a name="finalResult"></a>
 
-(Smart Box Demo)[https://www.youtube.com/watch?v=lUScERJdyYA]
+[Smart Box Demo](https://www.youtube.com/watch?v=lUScERJdyYA)
 
 ![boxfinal](https://github.com/HubertTheodore/smart-box/assets/55958230/beaf499c-4f9e-4880-a56d-37cbc13bd5f7)
