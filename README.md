@@ -21,9 +21,12 @@ Software:
 
 ![software](https://github.com/HubertTheodore/smart-box/assets/55958230/b1bf3a7c-6dec-482b-8927-ca5effa1ff95)
 
-Hardware fritzing and pictures of the physical circuit:
+Hardware fritzing:
 
 ![fritzing](https://github.com/HubertTheodore/smart-box/assets/55958230/b0a4c4c5-125f-4724-a8c3-1688c9f05636)
+
+Pictures of the physical circuit:
+
 ![box1](https://github.com/HubertTheodore/smart-box/assets/55958230/f1bdceb2-7d6d-4fe6-b732-4bcf9f9050b3)
 ![box2](https://github.com/HubertTheodore/smart-box/assets/55958230/91417b92-e4fa-4b2d-9744-08f014e5148e)
 
