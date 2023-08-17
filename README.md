@@ -25,7 +25,7 @@ Hardware fritzing:
 
 ![fritzing](https://github.com/HubertTheodore/smart-box/assets/55958230/ff9100f9-822a-48ed-88d1-c51225aa251a)
 
-Pictures of the physical circuit:
+Pictures of the physical components:
 
 ![box1](https://github.com/HubertTheodore/smart-box/assets/55958230/a6e9227c-09c7-45e4-9a9f-ab80e65c3664)
 ![box2](https://github.com/HubertTheodore/smart-box/assets/55958230/d3b15c79-42e2-4c49-a477-47e918bce011)
